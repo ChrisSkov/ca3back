@@ -27,7 +27,7 @@ import utils.EMF_Creator;
 public class LoginEndpointTest {
 
     private static final int SERVER_PORT = 7777;
-    private static final String SERVER_URL = "http://localhost/api";
+    private static final String SERVER_URL = "https://goinghamdev.com/api";
 //    private static RenameMe r1, r2;
 
 
